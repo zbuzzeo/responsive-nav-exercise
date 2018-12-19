@@ -12,7 +12,7 @@ Basic understanding of HTML and CSS.
 
 You will be writing all of your code in `styles.css`. Don't forget to link your stylesheet to your html file!
 
-1. Select the `container` element and add the `display` property and set it's value to `flex`.
+1. Select the `container` element and add the `display` property and set it's value to `flex` and add the `flex-flow` property and set its value to `row wrap`.
 
    - This activates flexbox!
 
